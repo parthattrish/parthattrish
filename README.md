@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 currently I am working with Python <br>✨I am excited to collab, connect and grow.<br>👨🏻‍💻I love to code and learn.
+![Uploading 240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif…]()
 
 
 ## 🌐 Socials:
