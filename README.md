@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 currently I am working with Python <br>✨I am excited to collab, connect and grow.<br>👨🏻‍💻I love to code and learn.
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c...")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c..."
 
 
 ## 🌐 Socials:
